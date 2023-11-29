@@ -1,171 +1,79 @@
-2023-11-20 @18:12:16 -- OS: Windows
+2023-11-29 @22:59:22 -- OS: Windows
 
-2023-11-20 @18:12:16 -- Configurator: 10.9.0 (697943b)
+2023-11-29 @22:59:22 -- Configurator: 10.9.0 (697943b)
 
-2023-11-20 @18:12:17 -- Loaded release information for configurator from GitHub.
+2023-11-29 @22:59:23 -- Loaded release information for configurator from GitHub.
 
-2023-11-20 @18:12:20 -- Chrome API Error: Failed to connect to the port..
+2023-11-29 @22:59:26 -- Serial port successfully opened with ID: 1
 
-2023-11-20 @18:12:20 -- Failed to open serial port
+2023-11-29 @22:59:26 -- MultiWii API version: 1.45.0
 
-2023-11-20 @18:12:23 -- Chrome API Error: Failed to connect to the port..
+2023-11-29 @22:59:26 -- Flight controller info, identifier: BTFL, version: 4.4.2
 
-2023-11-20 @18:12:23 -- Failed to open serial port
+2023-11-29 @22:59:26 -- Running firmware released on: Jun 1 2023 03:13:38
 
-2023-11-20 @18:12:24 -- Chrome API Error: Failed to connect to the port..
+2023-11-29 @22:59:26 -- Board: DIAT/MAMBAF722_2022B(STM32F7X2), version: 0
 
-2023-11-20 @18:12:24 -- Failed to open serial port
+2023-11-29 @22:59:26 -- Unique device ID: 0x3300493438511236383538
 
-2023-11-20 @18:14:30 -- Serial port successfully opened with ID: 1
+2023-11-29 @22:59:26 -- Craft name:
 
-2023-11-20 @18:14:30 -- MultiWii API version: 1.44.0
+2023-11-29 @22:59:26 -- Arming Disabled
 
-2023-11-20 @18:14:30 -- Flight controller info, identifier: BTFL, version: 4.3.1
+2023-11-29 @22:59:43 -- Arming Enabled
 
-2023-11-20 @18:14:30 -- Running firmware released on: Jul 13 2022 03:27:52
+2023-11-29 @22:59:43 -- Runaway Takeoff Prevention temporarily Disabled
 
-2023-11-20 @18:14:30 -- Board: GEPR/GEPRC_F722_AIO(STM32F7X2), version: 0
+2023-11-29 @23:00:22 -- Arming Disabled
 
-2023-11-20 @18:14:30 -- Unique device ID: 0x43003d3431510937393330
+2023-11-29 @23:00:33 -- Arming Enabled
 
-2023-11-20 @18:14:30 -- Craft name: Cinelog35 P
+2023-11-29 @23:00:33 -- Runaway Takeoff Prevention Enabled
 
-2023-11-20 @18:14:30 -- Arming Disabled
+2023-11-29 @23:00:33 -- Serial port successfully closed
 
-2023-11-20 @18:15:07 -- CLI mode detected
+2023-11-29 @23:00:40 -- Serial port successfully opened with ID: 2
 
-2023-11-20 @18:15:25 -- Serial port successfully closed
+2023-11-29 @23:00:40 -- MultiWii API version: 1.45.0
 
-2023-11-20 @18:15:27 -- Serial port successfully opened with ID: 2
+2023-11-29 @23:00:40 -- Flight controller info, identifier: BTFL, version: 4.4.2
 
-2023-11-20 @18:15:27 -- MultiWii API version: 1.44.0
+2023-11-29 @23:00:40 -- Running firmware released on: Jun 1 2023 03:13:38
 
-2023-11-20 @18:15:27 -- Flight controller info, identifier: BTFL, version: 4.3.1
+2023-11-29 @23:00:40 -- Board: DIAT/MAMBAF722_2022B(STM32F7X2), version: 0
 
-2023-11-20 @18:15:27 -- Running firmware released on: Jul 13 2022 03:27:52
+2023-11-29 @23:00:40 -- Unique device ID: 0x3300493438511236383538
 
-2023-11-20 @18:15:27 -- Board: GEPR/GEPRC_F722_AIO(STM32F7X2), version: 0
+2023-11-29 @23:00:40 -- Craft name:
 
-2023-11-20 @18:15:27 -- Unique device ID: 0x43003d3431510937393330
+2023-11-29 @23:00:40 -- Arming Disabled
 
-2023-11-20 @18:15:27 -- Craft name: Cinelog35 P
+2023-11-29 @23:00:54 -- Arming Enabled
 
-2023-11-20 @18:15:27 -- Arming Disabled
+2023-11-29 @23:00:54 -- Runaway Takeoff Prevention Enabled
 
-2023-11-20 @18:15:30 -- Arming Enabled
+2023-11-29 @23:00:54 -- Serial port successfully closed
 
-2023-11-20 @18:15:30 -- Runaway Takeoff Prevention Enabled
+2023-11-29 @23:01:35 -- Serial port successfully opened with ID: 3
 
-2023-11-20 @18:15:30 -- Serial port successfully closed
+2023-11-29 @23:01:35 -- MultiWii API version: 1.45.0
 
-2023-11-20 @19:31:09 -- Serial port successfully opened with ID: 3
+2023-11-29 @23:01:35 -- Flight controller info, identifier: BTFL, version: 4.4.2
 
-2023-11-20 @19:31:09 -- MultiWii API version: 1.44.0
+2023-11-29 @23:01:35 -- Running firmware released on: Jun 1 2023 03:13:38
 
-2023-11-20 @19:31:09 -- Flight controller info, identifier: BTFL, version: 4.3.1
+2023-11-29 @23:01:35 -- Board: DIAT/MAMBAF722_2022B(STM32F7X2), version: 0
 
-2023-11-20 @19:31:09 -- Running firmware released on: Jul 13 2022 03:27:52
+2023-11-29 @23:01:35 -- Unique device ID: 0x3300493438511236383538
 
-2023-11-20 @19:31:09 -- Board: GEPR/GEPRC_F722_AIO(STM32F7X2), version: 0
+2023-11-29 @23:01:35 -- Craft name:
 
-2023-11-20 @19:31:09 -- Unique device ID: 0x43003d3431510937393330
+2023-11-29 @23:01:35 -- Arming Disabled
 
-2023-11-20 @19:31:09 -- Craft name: Cinelog35 P
+2023-11-29 @23:01:44 -- CLI mode detected
 
-2023-11-20 @19:31:09 -- Arming Disabled
 
-2023-11-20 @19:32:04 -- EEPROM saved
 
-2023-11-20 @19:32:04 -- Device - Rebooting
-
-2023-11-20 @19:32:04 -- Serial port successfully closed
-
-2023-11-20 @19:32:06 -- Serial port successfully opened with ID: 4
-
-2023-11-20 @19:32:06 -- MultiWii API version: 1.44.0
-
-2023-11-20 @19:32:06 -- Flight controller info, identifier: BTFL, version: 4.3.1
-
-2023-11-20 @19:32:06 -- Running firmware released on: Jul 13 2022 03:27:52
-
-2023-11-20 @19:32:06 -- Board: GEPR/GEPRC_F722_AIO(STM32F7X2), version: 0
-
-2023-11-20 @19:32:06 -- Unique device ID: 0x43003d3431510937393330
-
-2023-11-20 @19:32:06 -- Craft name: Cinelog35 P
-
-2023-11-20 @19:32:06 -- Arming Disabled
-
-2023-11-20 @19:32:06 -- Device - Ready
-
-2023-11-20 @19:32:33 -- CLI mode detected
-
-2023-11-20 @19:33:24 -- Serial port successfully closed
-
-2023-11-20 @19:33:26 -- Serial port successfully opened with ID: 5
-
-2023-11-20 @19:33:26 -- MultiWii API version: 1.44.0
-
-2023-11-20 @19:33:26 -- Flight controller info, identifier: BTFL, version: 4.3.1
-
-2023-11-20 @19:33:26 -- Running firmware released on: Jul 13 2022 03:27:52
-
-2023-11-20 @19:33:26 -- Board: GEPR/GEPRC_F722_AIO(STM32F7X2), version: 0
-
-2023-11-20 @19:33:26 -- Unique device ID: 0x43003d3431510937393330
-
-2023-11-20 @19:33:26 -- Craft name: Cinelog35 P
-
-2023-11-20 @19:33:26 -- Arming Disabled
-
-2023-11-20 @19:33:27 -- Serial port successfully closed
-
-2023-11-20 @19:34:50 -- Serial port successfully opened with ID: 6
-
-2023-11-20 @19:34:50 -- MultiWii API version: 1.45.0
-
-2023-11-20 @19:34:50 -- Flight controller info, identifier: BTFL, version: 4.4.2
-
-2023-11-20 @19:34:50 -- Running firmware released on: Jun 1 2023 03:13:38
-
-2023-11-20 @19:34:50 -- Board: DIAT/MAMBAF722_2022B(STM32F7X2), version: 0
-
-2023-11-20 @19:34:50 -- Unique device ID: 0x3300493438511236383538
-
-2023-11-20 @19:34:50 -- Craft name:
-
-2023-11-20 @19:34:50 -- Arming Disabled
-
-2023-11-20 @19:35:13 -- EEPROM saved
-
-2023-11-20 @19:35:13 -- Serial port successfully closed
-
-2023-11-20 @19:35:16 -- Serial port successfully opened with ID: 7
-
-2023-11-20 @19:35:16 -- MultiWii API version: 1.45.0
-
-2023-11-20 @19:35:16 -- Flight controller info, identifier: BTFL, version: 4.4.2
-
-2023-11-20 @19:35:16 -- Running firmware released on: Jun 1 2023 03:13:38
-
-2023-11-20 @19:35:16 -- Board: DIAT/MAMBAF722_2022B(STM32F7X2), version: 0
-
-2023-11-20 @19:35:16 -- Unique device ID: 0x3300493438511236383538
-
-2023-11-20 @19:35:16 -- Craft name:
-
-2023-11-20 @19:35:16 -- Arming Disabled
-
-2023-11-20 @19:35:18 -- CLI mode detected
-
-
-
-
-Entering CLI Mode, type 'exit' to return, or 'help'
-
-# 
-# Building AutoComplete Cache ... Done!
-# 
 # dump
 
 # version
@@ -730,7 +638,7 @@ set motor_pwm_protocol = DSHOT600
 set motor_pwm_rate = 480
 set motor_pwm_inversion = OFF
 set motor_poles = 14
-set motor_output_reordering = 3,2,1,0,4,5,6,7
+set motor_output_reordering = 0,1,2,3,4,5,6,7
 set thr_corr_value = 0
 set thr_corr_angle = 800
 set failsafe_delay = 15
@@ -1034,9 +942,9 @@ set gyro_1_bustype = SPI
 set gyro_1_spibus = 1
 set gyro_1_i2cBus = 0
 set gyro_1_i2c_address = 0
-set gyro_1_sensor_align = CW270
+set gyro_1_sensor_align = CW270FLIP
 set gyro_1_align_roll = 0
-set gyro_1_align_pitch = 0
+set gyro_1_align_pitch = 1800
 set gyro_1_align_yaw = 2700
 set gyro_2_bustype = SPI
 set gyro_2_spibus = 0
